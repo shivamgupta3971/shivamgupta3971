@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-<a href="https://shivamgupta3971.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shivamgupta-3971/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://shivam-gupta-s-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shivamgupta2525" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shivamgupta.3971@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/shivamgupta3971" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -79,20 +79,29 @@ open_to:
 
 **Backend, Data & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,elasticsearch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,elasticsearch,mysql&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powerbi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powerbi,docker&theme=dark" />
 
 **AI / ML & Computer Vision**
 
 <img src="https://img.shields.io/badge/OpenCV-6A0DAD?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/MediaPipe-4A148C?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-8A2BE2?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-6A0DAD?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-4A148C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-4A148C?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-8A2BE2?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-6A0DAD?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs%20%2F%20RAG-A78BFA?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6A0DAD?style=flat-square" />
-<img src="https://img.shields.io/badge/Scikit--Learn-4A148C?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+**DevOps & Infrastructure**
+
+<img src="https://img.shields.io/badge/CI%2FCD-4A148C?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-6A0DAD?style=flat-square&logo=postgresql&logoColor=white" />
 
 </div>
 
@@ -125,7 +134,7 @@ Real-time AI Dance & Fitness Coach that analyzes user movement from YouTube danc
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Next.js, React, TypeScript, Tailwind CSS, OpenAI GPT-4o-mini, Groq Vision, TTS, MediaPipe Pose, Modal (SAM2) | Full-stack web application | Real-time pose analysis, low-latency inference | N/A | Personalized AI coaching & performance insights | [GitHub](https://github.com/shivamgupta3971/fitveda) |
+| Next.js, React, TypeScript, Tailwind CSS, OpenAI GPT-4o-mini, Groq Vision, TTS, MediaPipe Pose, Modal (SAM2) | Full-stack web application | Real-time pose analysis, low-latency inference | N/A | Personalized AI coaching & performance insights | [GitHub](https://github.com/shivamgupta3971/fitveda.git) |
 
 </details>
 
@@ -137,7 +146,7 @@ AI-powered delayed clone system using Python, OpenCV, and MediaPipe that creates
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Python, OpenCV, MediaPipe | Real-time video processing | Low-latency, optimized landmark rendering | N/A | Real-time visual effect generation | [GitHub](https://github.com/shivamgupta3971/delayed-ai-clone) |
+| Python, OpenCV, MediaPipe | Real-time video processing | Low-latency, optimized landmark rendering | N/A | Real-time visual effect generation | [GitHub](https://github.com/shivamgupta3971/Delayed-AI-Clone.git) |
 
 </details>
 
@@ -149,7 +158,7 @@ Interactive Formula 1 race replay application using Python, FastF1, Arcade, and 
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Python, FastF1, Arcade, NumPy | Data visualization / analytics tool | Optimized telemetry processing, smooth replay | N/A | Race analysis and visualization | [GitHub](https://github.com/shivamgupta3971/f1-replay-system) |
+| Python, FastF1, Arcade, NumPy | Data visualization / analytics tool | Optimized telemetry processing, smooth replay | N/A | Race analysis and visualization | [GitHub](https://github.com/shivamgupta3971/F1_analyst_system.git) |
 
 </details>
 
@@ -316,9 +325,9 @@ open_to:
 <div align="center">
 
 <a href="mailto:shivamgupta.3971@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shivamgupta-3971/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shivamgupta2525" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/shivamgupta3971" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://shivamgupta3971.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://shivam-gupta-s-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
